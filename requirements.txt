@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+nltk
+streamlit
+joblib
+PyPDF2
+python-docx
+fpdf
+wordcloud
+matplotlib
