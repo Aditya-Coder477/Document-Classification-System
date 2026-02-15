@@ -1,11 +1,11 @@
 pandas
 scikit-learn
 nltk
-streamlit
+streamlit>=1.42.0
 joblib
 PyPDF2
 python-docx
 fpdf
 wordcloud
 matplotlib
-altair
+altair<5
